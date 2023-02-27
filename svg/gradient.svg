@@ -1,0 +1,30 @@
+<svg fill="none" viewBox="0 0 400 100" width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        h1 {
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-image: linear-gradient(45deg, #00ff04, #2840df);
+
+          text-align: center;
+          background-size: 200% 200%;
+          animation: gradient 2s alternate-reverse infinite;
+        }
+
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+
+          100% {
+            background-position: 100% 50%;
+          }
+        }
+      </style>
+
+      <h1>Hi there, my name is cael👋</h1>
+    </div>
+  </foreignObject>
+</svg>

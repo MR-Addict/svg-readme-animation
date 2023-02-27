@@ -4,6 +4,10 @@
 
 ![gingerbread](svg/gingerbread.svg)
 
-## 2. bigHead
+## 2. BigHead
 
 ![bigHead](svg/bigHead.svg)
+
+## 3. Gradient
+
+![gradient](svg/gradient.svg)
