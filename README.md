@@ -1,4 +1,4 @@
-# Github SVG animation
+![gradient](svg/gradient.svg)
 
 ## 1. Gingerbread
 
@@ -7,7 +7,3 @@
 ## 2. BigHead
 
 ![bigHead](svg/bigHead.svg)
-
-## 3. Gradient
-
-![gradient](svg/gradient.svg)

@@ -3,12 +3,12 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h1 {
-          background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
-          background-image: linear-gradient(45deg, #00ff04, #2840df);
+          background-image: linear-gradient(45deg, #0044ff, #df2828);
 
           text-align: center;
+          font-family: cursive;
           background-size: 200% 200%;
           animation: gradient 2s alternate-reverse infinite;
         }
@@ -24,7 +24,7 @@
         }
       </style>
 
-      <h1>Hi there, my name is cael👋</h1>
+      <h1>Github SVG animations</h1>
     </div>
   </foreignObject>
 </svg>
