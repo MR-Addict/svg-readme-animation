@@ -1,9 +1,13 @@
-![gradient](svg/gradient.svg)
+![gradient](src/gradient.svg)
 
 ## 1. Gingerbread
 
-![gingerbread](svg/gingerbread.svg)
+![gingerbread](src/gingerbread.svg)
 
 ## 2. BigHead
 
-![bigHead](svg/bigHead.svg)
+![bigHead](src/bigHead.svg)
+
+# 3. Sauage dog
+
+![sauage](src/sausage.svg)
